@@ -1,4 +1,4 @@
-File With Access token and logon inframtion is not present here
+# File With Access token and logon inframtion is not present here
 setp 1 : install terrafrom ( make "terraform init" and connecting to aws )
 step 2 : create_ubuntu.tf file ( this script is creating ubuntu 20.04 instance with name Exadelintership04, add key subnet and security group )
 step 3 : SecGRP.tf file ( this script is creating allow_ssh_http_icmp security group wuth ingress and egress rules for ubuntu instance )
